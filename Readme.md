@@ -13,6 +13,8 @@ jupyter-note .
 ```
 
 ## Run steamlit app
+link dashboard
+```https://aqi-analysis-dicodingsubmission.streamlit.app/```
 ```
 streamlit run .\dashboard\dashboard.py
 ```
